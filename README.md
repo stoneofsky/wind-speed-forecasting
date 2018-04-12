@@ -1,2 +1,3 @@
 # wind-speed-forecasting
-vvv
+this model is use to forecasting wind speed data 
+this model is CNN-based 
